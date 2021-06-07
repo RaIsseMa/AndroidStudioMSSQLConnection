@@ -1,0 +1,2 @@
+rootProject.name = "ConnectMSSQL"
+include ':app'
